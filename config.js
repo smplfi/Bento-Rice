@@ -31,10 +31,6 @@ const CONFIG = {
 	weatherUnit: 'C', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
-	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-	defaultLatitude: '37.775',
-	defaultLongitude: '-122.419',
-
 	// Autochange
 	autoChangeTheme: true,
 
@@ -83,9 +79,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'Invidious',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://yewtu.be/feed/popular',
 		},
 	],
 
@@ -139,20 +135,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Native Instruments',
+					link: 'https://www.native-instruments.com/en/',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Sweetwater',
+					link: 'https://www.sweetwater.com/',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Pianobook',
+					link: 'https://www.pianobook.co.uk/',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Andrew Huang',
+					link: 'https://yewtu.be/channel/UCdcemy56JtVTrsFIOoqvV8g',
 				},
 			],
 		},
