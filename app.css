@@ -17,13 +17,13 @@
   --icon: 3vh; /* Icon Size */
 
   /* Fonts Color */
-  --fg: #3a3a3a; /* Foreground color */
+  --fg: #2b2b2b; /* Foreground color */
   --sfg: #1f231f; /* Secondary Foreground color */
 
   /* Light Colors  */
   --accent: #B69C3E; /* Hover color */
   --background: #cddacd; /* Background color */
-  --cards: #e4e6e6; /* Cards color */
+  --cards: #797881; /* Cards color (or bac4ba) */
 
   /* Image background  */
   --imgbg: url(assets/background.jpg); /* Image URL */
