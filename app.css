@@ -26,7 +26,7 @@
   --cards: #bac4ba; /* Cards color (or 797881) */
 
   /* Image background  */
-  --imgbg: url(assets/background.jpg); /* Image URL */
+  --imgbg: url(assets/background.png); /* Image URL */
   --imgcol: linear-gradient(
     rgba(255, 255, 255, 0.7),
     rgba(255, 255, 255, 0.7)
@@ -174,10 +174,10 @@ body {
   margin-left: 1.5rem;
 }
 
-#greetings {
-  font-size: var(--fg-secondary);
-  color: var(--fg);
-}
+//#greetings {
+//  font-size: var(--fg-secondary);
+//  color: var(--fg);
+//}
 
 .weatherIcon img {
   width: 70px;
