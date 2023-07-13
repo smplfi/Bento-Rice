@@ -11,16 +11,16 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	// name: 'John',
-	imageBackground: true,
+	name: '',
+	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
 
 	// Greetings
-	// greetingMorning: 'Good morning!',
-	// greetingAfternoon: 'Good afternoon,',
-	// greetingEvening: 'Good evening,',
-	// greetingNight: 'Go to Sleep!',
+	greetingMorning: 'Good morning!',
+	greetingAfternoon: 'Good afternoon,',
+	greetingEvening: 'Good evening,',
+	greetingNight: 'Go to Sleep!',
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
@@ -51,7 +51,7 @@ const CONFIG = {
 			id: '1',
 			name: 'Github',
 			icon: 'github',
-			link: 'https://github.com/',
+			link: 'https://github.com/smplfi',
 		},
 		{
 			id: '2',
@@ -69,19 +69,19 @@ const CONFIG = {
 			id: '4',
 			name: 'Calendar',
 			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			link: 'https://calendar.proton.me/u/0/',
 		},
 		{
 			id: '5',
-			name: 'Reddit',
+			name: 'Libreddit',
 			icon: 'glasses',
-			link: 'https://reddit.com',
+			link: 'https://libreddit.nl/',
 		},
 		{
 			id: '6',
 			name: 'Invidious',
 			icon: 'youtube',
-			link: 'https://yewtu.be/feed/popular',
+			link: 'https://vid.priv.au/feed/popular',
 		},
 	],
 
@@ -153,24 +153,24 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'keyboard',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Novel Keys',
+					link: 'https://novelkeys.com',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Kono',
+					link: 'https://kono.store',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Keeb Finder',
+					link: 'https://keeb-finder.com/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Taeha Types',
+					link: 'https://vid.priv.au/channel/UCMHXMAeKkI6HXlPfLiYvo9g',
 				},
 			],
 		},
