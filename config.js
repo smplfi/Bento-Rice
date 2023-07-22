@@ -75,7 +75,7 @@ const CONFIG = {
 			id: '5',
 			name: 'Libreddit',
 			icon: 'glasses',
-			link: 'https://libreddit.nl/',
+			link: 'https://libreddit.privacydev.net/',
 		},
 		{
 			id: '6',
