@@ -81,7 +81,7 @@ const CONFIG = {
 			id: '6',
 			name: 'Invidious',
 			icon: 'youtube',
-			link: 'https://vid.priv.au/feed/popular',
+			link: 'https://invidious.io.lol/feed/popular',
 		},
 	],
 
@@ -148,7 +148,7 @@ const CONFIG = {
 				},
 				{
 					name: 'Andrew Huang',
-					link: 'https://yewtu.be/channel/UCdcemy56JtVTrsFIOoqvV8g',
+					link: 'https://invidious.io.lol/channel/UCdcemy56JtVTrsFIOoqvV8g',
 				},
 			],
 		},
