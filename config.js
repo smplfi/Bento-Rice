@@ -81,7 +81,7 @@ const CONFIG = {
 			id: '6',
 			name: 'Invidious',
 			icon: 'youtube',
-			link: 'https://invidious.io.lol/feed/popular',
+			link: 'https://invidious.io.lol/channel/UCvcEBQ0K3UsQ8bzWKHKQmbw',
 		},
 	],
 
