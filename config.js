@@ -79,9 +79,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Invidious',
+			name: 'Piped',
 			icon: 'youtube',
-			link: 'https://invidious.io.lol/channel/UCvcEBQ0K3UsQ8bzWKHKQmbw',
+			link: 'https://pi.ggtyler.dev/trending',
 		},
 	],
 
