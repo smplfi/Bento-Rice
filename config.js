@@ -139,16 +139,16 @@ const CONFIG = {
 					link: 'https://www.native-instruments.com/en/',
 				},
 				{
+					name: 'VSL',
+					link: 'https://www.vsl.co.at/en',
+				},
+				{
+					name: 'UVI',
+					link: 'https://www.uvi.net/',
+				},
+				{
 					name: 'Sweetwater',
 					link: 'https://www.sweetwater.com/',
-				},
-				{
-					name: 'Pianobook',
-					link: 'https://www.pianobook.co.uk/',
-				},
-				{
-					name: 'Andrew Huang',
-					link: 'https://invidious.io.lol/channel/UCdcemy56JtVTrsFIOoqvV8g',
 				},
 			],
 		},
