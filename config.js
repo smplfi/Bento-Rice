@@ -139,16 +139,16 @@ const CONFIG = {
 					link: 'https://www.native-instruments.com/en/',
 				},
 				{
-					name: 'VSL',
-					link: 'https://www.vsl.co.at/en',
+					name: 'Sweetwater',
+					link: 'https://www.sweetwater.com/',
 				},
 				{
 					name: 'UVI',
 					link: 'https://www.uvi.net/',
 				},
 				{
-					name: 'Sweetwater',
-					link: 'https://www.sweetwater.com/',
+					name: 'VSL',
+					link: 'https://www.vsl.co.at/en',
 				},
 			],
 		},
